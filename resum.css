@@ -10,23 +10,21 @@
     align-items: flex-start;    
 }
 .about{
-    background-color: burlywood;
+    /* background-color: burlywood; */
     margin: auto;
     padding: 10px;
-    width: 70%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    border-left: solid 6px #348498;
 }
 
 .left{
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
     margin: 10px;
     padding: 10px;
+    width: 50%;
 }
 .right{
-    background-color: rgb(95, 96, 160);
+    /* background-color: rgb(95, 96, 160); */
     padding: 10px;
     margin: 10px;
+    width: 50%;
 }
